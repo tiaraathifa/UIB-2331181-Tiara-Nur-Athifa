@@ -1,0 +1,9 @@
+=== Verifying your Python environment... ===
+
+[OK] NumPy installed, version: 2.3.3
+[OK] Pandas installed, version: 2.3.2
+[OK] Matplotlib installed, version: 3.10.6
+[OK] Seaborn installed, version: 0.13.2
+[OK] scikit-learn installed, version: 1.7.2
+
+=== Verification finished! ===
