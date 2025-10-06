@@ -1,4 +1,4 @@
-Project Description
+Project Description - Pertemuan 2
 
 Dalam era kerja jarak jauh (remote work), banyak perusahaan mengalami kesulitan dalam menilai produktivitas karyawan secara objektif. Faktor-faktor seperti usia, pengalaman kerja, dan jumlah hari bekerja dari rumah dapat memengaruhi kualitas kerja seseorang, namun pengaruhnya tidak selalu bersifat pasti (non-linear). Oleh karena itu, pendekatan fuzzy logic digunakan untuk memberikan penilaian yang lebih fleksibel dan manusiawi terhadap produktivitas karyawan.
 
@@ -14,3 +14,5 @@ Output dari sistem ini adalah:
 
  - Work Quality (Kualitas Kerja)
 yang dikategorikan ke dalam tiga level: Low, Medium, dan High.
+
+link GitHub : link GitHub : https://github.com/tiaraathifa/UIB-2331181-Tiara-Nur-Athifa
